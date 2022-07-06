@@ -7,4 +7,4 @@ services:
     volumes:
       - ./backend/:/backend
     ports:
-      - "80:5000"
+      - "5000:5000"
