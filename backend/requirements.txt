@@ -1,0 +1,4 @@
+django
+djangorestframework
+django-model-utils #to use extra model classes like  SoftDeletableModel, TimeStampedModel
+dj-rest-auth
